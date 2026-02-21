@@ -1,5 +1,5 @@
 # BudgetTrack
-## Web App: [budgettrack.xyz](https://www.budgettrack.xyz/)
+## Web App: [budget-track-eight.vercel.app](https://budget-track-eight.vercel.app/)
 
 ## Table of Contents
 - [About the App](#about-the-app)
