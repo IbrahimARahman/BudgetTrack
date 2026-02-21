@@ -6,7 +6,6 @@
 - [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Setup](#setup)
-- [Status](#status)
 
 ### About the App
 BudgetTrack is a budgeting app that allows users to keep track of and visualize their budgets and expenses. User authentication is handled with Clerk. Information is stored in a Neon PostgreSQL database and queried with Drizzle ORM.
